@@ -1,0 +1,3 @@
+local workspace = game:GetService("Workspace")
+local deletw = workspace.Killers
+deletw:Destroy()
